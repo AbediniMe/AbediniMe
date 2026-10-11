@@ -1,52 +1,52 @@
 # Mahdi Abedini
-### Technology Engineer & Researcher | Software R&D · Systems Integration · Emerging Technologies
 
-I work at the intersection of **engineering, research, and software**—exploring technology across domains, developing software, and integrating modern systems into coherent, practical solutions.
+### Technology Engineer & Researcher
+**Software R&D · Systems Integration · Emerging Technologies**
 
-My approach is systems-oriented: understand the underlying problem, connect ideas across disciplines, and turn complex requirements into architectures and tools that can be tested, maintained, and evolved.
+I work across engineering, research, and software—exploring technical problems, developing software, and integrating modern systems into practical, maintainable solutions.
+
+My approach is systems-oriented: understand the problem and its constraints, connect ideas across disciplines, then translate requirements into architectures, prototypes, and tools that can be evaluated and improved.
 
 > **Connecting disciplines. Engineering systems. Translating research into technology.**
 
 ---
 
-## Research & Exploration
+## Areas of Interest
 
-My interests span the engineering foundations of modern technology and the emerging interfaces between computation, materials, and human health.
-
-| Domain | Areas I follow |
+| Domain | Focus |
 | --- | --- |
-| **Nanotechnology & Nanomedicine** | Functional nanomaterials, nanoscale sensing, targeted and controlled delivery, and the path from laboratory research to practical applications |
-| **Medicine & Biomedical Engineering** | Medical devices, biomedical instrumentation, biosensors, diagnostic technologies, imaging, biomaterials, and tissue-engineering systems |
-| **Software Research & Development** | Designing software solutions, exploring technical approaches, prototyping, and translating requirements into reliable implementations |
-| **Systems Integration** | Connecting heterogeneous platforms, designing interoperable workflows, and bringing software, data, and modern technologies together |
-| **Intelligent & Digital Health Systems** | Data-informed tools, connected health technologies, and the integration of computational systems into biomedical workflows |
+| **Software Research & Development** | Technical investigation, software design, prototyping, implementation, and iterative improvement |
+| **Systems Integration** | Interoperability, system boundaries, data flow, and connecting heterogeneous platforms |
+| **Nanotechnology & Nanomedicine** | Functional nanomaterials, nanoscale sensing, targeted delivery, and routes from research to application |
+| **Medicine & Biomedical Engineering** | Medical devices, biomedical instrumentation, biosensors, diagnostic technologies, imaging, biomaterials, and tissue engineering |
+| **Intelligent & Digital Health Systems** | Connected health technologies and computational tools for biomedical workflows |
 
-These are interdisciplinary areas of exploration—not a claim that every topic is already a completed project. I’m especially interested in how rigorous engineering and software can help bridge research, experimentation, and real-world use.
+These are interdisciplinary interests and areas of exploration—not a claim that every topic is already represented by a completed project. I am particularly interested in how rigorous engineering and software can help bridge research, experimentation, and real-world use.
 
-## How I Approach Engineering
+## Engineering Principles
 
-- **Research before assumptions** — investigate the problem, evidence, constraints, and trade-offs.
-- **Architecture before complexity** — make components, interfaces, and system boundaries understandable.
-- **Integration by design** — prioritize interoperability, data flow, maintainability, and clear interfaces.
-- **Prototype, evaluate, refine** — turn ideas into testable implementations and improve them iteratively.
-- **Responsible translation** — in biomedical contexts, treat safety, validation, biocompatibility, privacy, and clinical evidence as essential considerations—not afterthoughts.
+- **Evidence before assumptions** — clarify the problem, available evidence, constraints, and trade-offs.
+- **Clear architecture** — make components, interfaces, and system boundaries understandable.
+- **Integration by design** — prioritize interoperability, reliable data flow, and maintainability.
+- **Build, evaluate, refine** — turn ideas into testable implementations and improve them iteratively.
+- **Responsible engineering** — in biomedical contexts, treat safety, validation, privacy, biocompatibility, and clinical evidence as core requirements.
 
-## What You'll Find on This GitHub
+## What You'll Find Here
 
-This profile is a workspace for technical exploration and engineering practice, including:
+This GitHub profile is a workspace for technical exploration and engineering practice, including:
 
 - Software experiments and development projects
 - System-integration concepts and implementation patterns
-- Research notes, technical prototypes, and interdisciplinary investigations
+- Research notes, prototypes, and interdisciplinary investigations
 - Reusable tools and documentation as work becomes ready to share
 
-I aim to make published work clear, reproducible where appropriate, and useful to other engineers and researchers. Projects will speak for themselves through their code, documentation, scope, and limitations.
+I aim to document scope, assumptions, setup, and limitations clearly so that published work is easier to understand and evaluate. Repositories should be judged by their actual code, documentation, and evidence—not by claims about unfinished work.
 
 ## Collaboration
 
-I welcome thoughtful exchange with engineers, researchers, and builders working across software, emerging technologies, nanotechnology, medicine, and biomedical engineering.
+I welcome thoughtful collaboration and technical exchange with engineers, researchers, and builders working across software, emerging technologies, nanotechnology, medicine, and biomedical engineering.
 
-If you see a useful connection between a research question and an engineering challenge, I’m interested in exploring how it can be approached systematically.
+If you see a useful connection between a research question and an engineering challenge, I’m interested in exploring it systematically.
 
 ---
 
